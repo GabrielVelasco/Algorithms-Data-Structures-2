@@ -1,3 +1,10 @@
+/*
+    Made by:
+        Amauri Pietropaolo Tavares Junior
+        Carlos Henrique Silva de Oliveira Bueno  
+        Gabriel de Araujo Velasco
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,8 +1,8 @@
 /*
-	Amauri Pietropaolo Tavares Junior - 11921BCC007
-	Carlos Henrique Silva de Oliveira Bueno - 11911BCC005
-	Gabriel de Araujo Velasco - 11921BCC003
-	Gabriella Marçal Silva - 11321GIN005
+    Made by:
+        Amauri Pietropaolo Tavares Junior
+        Carlos Henrique Silva de Oliveira Bueno  
+        Gabriel de Araujo Velasco
 */
 
 #include <stdio.h>
